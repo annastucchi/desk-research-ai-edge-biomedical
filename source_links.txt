@@ -1,0 +1,7 @@
+[1] Rahimi et al. (2020) - https://arxiv.org/abs/2007.05657
+[2] Xu et al. (2025) - https://link.springer.com/article/10.1007/s10462-024-11033-5
+[3] Google Coral Benchmarks - https://coral.ai/docs/edgetpu/benchmarks/
+[4] NVIDIA Jetson Orin Nano - https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/
+[5] DeepEdgeBench (Blott et al., 2021) - https://arxiv.org/abs/2108.09457
+[6] Reddit Coral Discussion - https://www.reddit.com/r/computervision/comments/1161mab/should_i_get_a_google_coral_usb_accelerator_for/
+[7] Hackaday Jetson Orin - https://hackaday.com/2023/03/21/hands-on-nvidia-jetson-orin-nano-developer-kit/
